@@ -21,13 +21,16 @@ Hi! I am working as a Machine Learning Engineer at Spectrum Engineering Consorti
 
 # 📖 Educations
 
-**Kaiming He**
-**Kaiming He**
-- hi
-- hi
+**Bachelor of Science in Computer Science and Engineering**
+*United International University, May 2019 - May 2023*
+• Major: Data Science
+• CGPA: 3.97 out of 4.00
+• Batch Position: 1st (Dept. of CSE)
+• Thesis : Human Identication using Gait Landmarks. 
+  Supervisor: Dr. Arif Reza Anwary and Prof. Dr. Swakkhar Shatabda.
 
 
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- , Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 
