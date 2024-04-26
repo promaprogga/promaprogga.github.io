@@ -40,7 +40,7 @@ Hi! I am working as a Machine Learning Engineer at Spectrum Engineering Consorti
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 💻 Internships
+# 💻 Services
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 - 
 
