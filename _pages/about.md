@@ -20,6 +20,16 @@ redirect_from:
 Hi! I am working as a Machine Learning Engineer at Spectrum Engineering Consortium Ltd. I did my undergrad in Computer Science and Engineering with a CGPA of 3.97 out of 4.0 at United International University and secured 1st position in my graduation batch. My current research focuses on computer vision and language.
 
 # 📖 Educations
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Deep Residual Learning for Image Recognition]
+
+**Kaiming He**
+
+</div>
+</div>
+
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
