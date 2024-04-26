@@ -20,21 +20,20 @@ redirect_from:
 Hi! I am working as a Machine Learning Engineer at Spectrum Engineering Consortium Ltd. I did my undergrad in Computer Science and Engineering with a CGPA of 3.97 out of 4.0 at United International University and secured 1st position in my graduation batch. My current research focuses on computer vision and language.
 
 # 📖 Educations
-
-**Bachelor of Science in Computer Science and Engineering** <br/>
+**B.Sc. in Computer Science and Engineering** <br/>
 *United International University, May 2019 - May 2023*
 - Major: Data Science
 - CGPA: 3.97 out of 4.00
 - Batch Position: 1st (Dept. of CSE)
-- Thesis Supervisor: Dr. Arif Reza Anwary and Prof. Dr. Swakkhar Shatabda)
-
-
-- , Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- Thesis Supervisor: Dr. Arif Reza Anwary and Prof. Dr. Swakkhar Shatabda
+**Higher Secondary Certificate (HSC)** <br/>
+*Gurrudayal Govt. College, 2018*
+**Secondary School Certificate (SSC)** <br/>
+*SV Govt. Girls High School, 2016*
+**Junior School Certificate (JSC)** <br/>
+*SV Govt. Girls High School, 2014*
 
 # 📝 Publications 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -49,7 +48,7 @@ Hi! I am working as a Machine Learning Engineer at Spectrum Engineering Consorti
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 💻 Services
+# 💻 Academic Appointments
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 - 
 
