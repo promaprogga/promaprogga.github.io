@@ -22,7 +22,7 @@ Hi! I am working as a Machine Learning Engineer at Spectrum Engineering Consorti
 # 📖 Educations
 
 **Bachelor of Science in Computer Science and Engineering**
-<div></span><\div>
+<div></span></div>
 *United International University, May 2019 - May 2023*
 - Major: Data Science
 - CGPA: 3.97 out of 4.00
