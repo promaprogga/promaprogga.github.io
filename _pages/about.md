@@ -26,10 +26,11 @@ Hi! I am working as a Machine Learning Engineer at Spectrum Engineering Consorti
 - CGPA: 3.97 out of 4.00
 - Batch Position: 1st (Dept. of CSE)
 - Thesis Supervisor: Dr. Arif Reza Anwary and Prof. Dr. Swakkhar Shatabda
+  <br/>
 **Higher Secondary Certificate (HSC)** <br/>
-*Gurrudayal Govt. College, 2018*
+*Gurrudayal Govt. College, 2018*<br/>
 **Secondary School Certificate (SSC)** <br/>
-*SV Govt. Girls High School, 2016*
+*SV Govt. Girls High School, 2016*<br/>
 **Junior School Certificate (JSC)** <br/>
 *SV Govt. Girls High School, 2014*
 
