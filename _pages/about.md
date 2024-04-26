@@ -20,7 +20,7 @@ redirect_from:
 Hi! I am working as a Machine Learning Engineer at Spectrum Engineering Consortium Ltd. I did my undergrad in Computer Science and Engineering with a CGPA of 3.97 out of 4.0 at United International University and secured 1st position in my graduation batch. My current research focuses on computer vision and language.
 
 # 📖 Educations
-- #B.Sc. in Computer Science and Engineering
+**B.Sc. in Computer Science and Engineering** <br/>
 *United International University, May 2019 - May 2023*
 - Major: Data Science
 - CGPA: 3.97 out of 4.00
