@@ -22,10 +22,11 @@ Hi! I am working as a Machine Learning Engineer at Spectrum Engineering Consorti
 # 📖 Educations
 **B.Sc. in Computer Science and Engineering** <br/>
 *United International University, May 2019 - May 2023*
-- Major: Data Science
+{- Major: Data Science
 - CGPA: 3.97 out of 4.00
 - Batch Position: 1st (Dept. of CSE)
 - Thesis Supervisor: Dr. Arif Reza Anwary and Prof. Dr. Swakkhar Shatabda
+%}
 
 **Higher Secondary Certificate (HSC)** <br/>
 *Gurrudayal Govt. College, 2018*<br/>
