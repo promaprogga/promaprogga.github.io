@@ -22,9 +22,6 @@ Hi! I am working as a Machine Learning Engineer at Spectrum Engineering Consorti
 # 📖 Educations
 **B.Sc. in Computer Science and Engineering** <br/>
 *United International University, May 2019 - May 2023*
-{%- Major: Data Science
-- Thesis Supervisor: Dr. Arif Reza Anwary and Prof. Dr. Swakkhar Shatabda
-%}
 
 **Higher Secondary Certificate (HSC)** <br/>
 *Gurrudayal Govt. College, 2018*<br/>
@@ -34,19 +31,19 @@ Hi! I am working as a Machine Learning Engineer at Spectrum Engineering Consorti
 *SV Govt. Girls High School, 2014*
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In submission.</div><img src='papers/vqascore/images/vqascore.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**Evaluating Text-to-Visual Generation with Image-to-Text Generation**
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Zhiqiu Lin**, [Deepak Pathak](https://www.cs.cmu.edu/~dpathak/), [Baiqi Li](https://linzhiqiu.github.io/papers/vqascore/), [Emily Li](https://linzhiqiu.github.io/papers/vqascore/), [Xide Xia](https://xidexia.github.io/), [Graham Neubig](https://phontron.com/), [Pengchuan Zhang\*](https://pzzhang.github.io/pzzhang/), [Deva Ramanan\*](https://www.cs.cmu.edu/~deva/)
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[Website](https://linzhiqiu.github.io/papers/vqascore/) \| [Arxiv](https://arxiv.org/pdf/2404.01291.pdf) \| [![](https://img.shields.io/github/stars/linzhiqiu/t2v_metrics?style=social&label=Code+Stars)](https://github.com/linzhiqiu/t2v_metrics)
+- We propose VQAScore, the state-of-the-art alignment metric for text-to-image/video/3D models.
+- VQAScore based on our new CLIP-FlanT5 model outperforms previous metrics based on GPT-4Vision or costly human feedback.
+
 </div>
 </div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 💻 Academic Appointments
 - *June 2023 - September 2023*, [Lorem](https://github.com/), China.
