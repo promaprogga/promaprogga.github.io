@@ -107,7 +107,7 @@ Anika Khaer, Md Siam Hossain Sarker, **Proma Hossain Progga**, Saniyat Mushrat L
   -  CSE 3522: Database Management Systems Laboratory. (Spring’22)
 - **Grader** - *United International University (November 2022 - May 2023)* <br>
   -  CSE 4889: Machine Learning. (Spring’23)
-  -  CSE 3811: Articial Intelligence. (Spring’23)
+  -  CSE 3811: Artificial Intelligence. (Spring’23)
   -  CSE 1111: Structured Programming. Language. (Spring’23)
   -  MATH 2205: Probability and Statistics. (Fall’22)
 
