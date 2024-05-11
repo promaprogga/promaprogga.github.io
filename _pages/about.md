@@ -53,9 +53,24 @@ Hi! I am working as a Machine Learning Engineer at SSCL. I did my undergrad with
   - Language model: N-Gram (6-gram)
   - Dataset: Bengali Common Voice Speech
     
-# 💻 Academic Appointments
-- *June 2023 - September 2023*, [Lorem](https://github.com/), China.
-- 
+# 💻 Academic Services
+- **Part-Time Lecturer (June 2023 - September 2023)** - *United International University* <br>
+Responsible for leading classes, grading assignments, providing counselling, and undertaking various responsibilities within the teaching role.
+  -  CSE 1115: Object Oriented Programming. (Summer’23)
+  -  CSE 1325: Digital Logic Design. (Summer’23)
+- **Grader (November 2022 - May 2023)** - *United International University* <br>
+Contributed to the assessment process by assisting faculty in grading assignments for several courses.
+  -  CSE 4889: Machine Learning. (Spring’23)
+  -  CSE 3811: Articial Intelligence. (Spring’23)
+  -  CSE 1111: Structured Programming. Language. (Spring’23)
+  -  MATH 2205: Probability and Statistics. (Fall’22)
+- **Undergraduate Teaching Assistant (March 2022 - May 2023)** - *United International University* <br>
+Served as a teaching assistant, guiding and supporting faculty member(s) in conducting various courses.
+  -  CSE 2216: Data Structure and Algorithms I Laboratory. (Spring’23)
+  -  CSE 3421: Software Engineering. (Fall’22)
+  -  CSE 3522: Database Management Systems Laboratory. (Fall’22)
+  -  CSE 2216: Data Structure and Algorithms I Laboratory. (Summer’22)
+  -  CSE 3522: Database Management Systems Laboratory. (Spring’22)
 
 
 
