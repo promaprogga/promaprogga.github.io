@@ -25,7 +25,7 @@ Hi! I am working as a Machine Learning Engineer at SSCL. I did my undergrad with
 - **2016**&nbsp; Secondary School Certificate (Science), SV Govt. Girls High School
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In submission</div><img src=images/gait.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In submission</div><img src='images/gait.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **A Bidirectional Siamese Recurrent Neural Network for Accurate Gait Recognition Using Body Landmarks**
