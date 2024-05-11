@@ -32,13 +32,15 @@ Hi! I am working as a Machine Learning Engineer at SSCL. I did my undergrad with
 
 **Proma Hossain Progga**, Md. Jobayer Rahman, Swapnil Biswas, Md. Shakil Ahmed, [Arif Reza Anwary](https://scholar.google.com/citations?user=zuhhxWIAAAAJ&hl=en) and [Swakkhar Shatabda](https://cse.uiu.ac.bd/faculty/swakkhar/).
 
+[**[Code]**](https://github.com/promaprogga/Siamese-BiGRU-dualStack)
+
 
 </div>
 </div>
 <!-- SparseCtrl -->
 
 <!-- AnimateDiff -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICONIP</div><img src='images/iressenet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICONIP</div><img src='images/iresnet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **iResSENet: An Accurate Convolutional Neural Network for Retinal Blood Vessel Segmentation**
@@ -46,9 +48,8 @@ Hi! I am working as a Machine Learning Engineer at SSCL. I did my undergrad with
 **Proma Hossain Progga** &
 [Swakkhar Shatabda](https://cse.uiu.ac.bd/faculty/swakkhar/)
 
-[**[Paper]**]([https://arxiv.org/abs/2307.04725](https://link.springer.com/chapter/10.1007/978-3-031-30111-7_48))&nbsp;
-[**[ResearchGate]**]([https://animatediff.github.io/](https://www.researchgate.net/publication/370303865_iResSENet_An_Accurate_Convolutional_Neural_Network_for_Retinal_Blood_Vessel_Segmentation))&nbsp;
-[**[Code]**]([https://github.com/guoyww/AnimateDiff](https://github.com/promaprogga/iResSENet-An-Accurate-Convolutional-Neural-Network-for-Retinal-Blood-Vessel-Segmentation))
+[**[Paper]**](https://link.springer.com/chapter/10.1007/978-3-031-30111-7_48)&nbsp;
+[**[Code]**](https://github.com/promaprogga/iResSENet-An-Accurate-Convolutional-Neural-Network-for-Retinal-Blood-Vessel-Segmentation)
 </div>
 </div>
 <!-- AnimateDiff -->
