@@ -8,12 +8,12 @@ main:
     
   - title: "Publications"
     url: "/#-publications"
-  
-  - title: "Academic Appointments"
-    url: "/#-academic-appointments"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
+  
+  - title: "Academic Services"
+    url: "/#-academic-services"
 
   - title: "Projects"
     url: "/#-projects"
