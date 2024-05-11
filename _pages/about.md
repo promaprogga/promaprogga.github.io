@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am working as a Machine Learning Engineer at Spectrum Software & Consulting Ltd. I did my undergrad in Computer Science and Engineering with a CGPA of 3.97 out of 4.0 and secured 1st position in my graduation batch at UIU. My current research focuses on computer vision and language. Feel free to [contact me](mailto:phprogga@gmail.com) if you are interested in my work.
+Hi! I am working as a Machine Learning Engineer at SSCL. I did my undergrad with the top position in Computer Science and Engineering at UIU. My current research focuses on computer vision and language. Feel free to [contact me](mailto:phprogga@gmail.com) if you are interested in my work.
 
 # 📖 Educations
 - **2019.07 - 2023.05**&nbsp; B.Sc. in Computer Science and Engineering (Data Science), United International University
