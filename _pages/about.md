@@ -28,8 +28,8 @@ Hi! I am working as a Machine Learning Engineer at SSCL. I did my undergrad with
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">In submission</div><img src='images/gait.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**A Bidirectional Siamese Recurrent Neural Network for Accurate Gait Recognition Using Body Landmarks**
-In Neurocomputing Journal, 2023.
+**A Bidirectional Siamese Recurrent Neural Network for Accurate Gait Recognition Using Body Landmarks** <br>
+In Neurocomputing Journal, 2023.<br>
 **Proma Hossain Progga**, Md. Jobayer Rahman, Swapnil Biswas, Md. Shakil Ahmed, [Arif Reza Anwary](https://scholar.google.com/citations?user=zuhhxWIAAAAJ&hl=en) and [Swakkhar Shatabda](https://cse.uiu.ac.bd/faculty/swakkhar/).
 
 [**[Code]**](https://github.com/promaprogga/Siamese-BiGRU-dualStack)
@@ -43,8 +43,8 @@ In Neurocomputing Journal, 2023.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICONIP'22</div><img src='images/iresnet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**iResSENet: An Accurate Convolutional Neural Network for Retinal Blood Vessel Segmentation**
-In International Conference on Neural Information Processing, pp. 567-578. Cham: Springer International Publishing.
+**iResSENet: An Accurate Convolutional Neural Network for Retinal Blood Vessel Segmentation**<br>
+In International Conference on Neural Information Processing, pp. 567-578. Cham: Springer International Publishing.<br>
 **Proma Hossain Progga** & [Swakkhar Shatabda](https://cse.uiu.ac.bd/faculty/swakkhar/)
 
 [**[Paper]**](https://link.springer.com/chapter/10.1007/978-3-031-30111-7_48)&nbsp;
@@ -57,8 +57,8 @@ In International Conference on Neural Information Processing, pp. 567-578. Cham:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCT'23</div><img src='images/KNN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**K-Nearest Neighbour Classifier for Big Data Mining based on Informative Instances**
-In International Conference for Convergence in Technology (I2CT), pp. 1-7. IEEE. 
+**K-Nearest Neighbour Classifier for Big Data Mining based on Informative Instances**<br>
+In International Conference for Convergence in Technology (I2CT), pp. 1-7. IEEE. <br>
 **Proma Hossain Progga**, Md. Jobayer Rahman, Swapnil Biswas, Md. Shakil Ahmed  and [Dewan 
 Md Farid](https://cse.uiu.ac.bd/faculty/dewanfarid/)
 
