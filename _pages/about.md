@@ -59,8 +59,7 @@ In International Conference on Neural Information Processing, pp. 567-578. Cham:
 
 **K-Nearest Neighbour Classifier for Big Data Mining based on Informative Instances**<br>
 In International Conference for Convergence in Technology (I2CT), pp. 1-7. IEEE. <br>
-**Proma Hossain Progga**, Md. Jobayer Rahman, Swapnil Biswas, Md. Shakil Ahmed  and [Dewan 
-Md Farid](https://cse.uiu.ac.bd/faculty/dewanfarid/)
+**Proma Hossain Progga**, Md. Jobayer Rahman, Swapnil Biswas, Md. Shakil Ahmed  and [Dewan Md Farid](https://cse.uiu.ac.bd/faculty/dewanfarid/)
 
 [**[Paper]**](https://ieeexplore.ieee.org/document/10126147)&nbsp;
 
@@ -85,11 +84,11 @@ Anika Khaer, Md Siam Hossain Sarker, **Proma Hossain Progga**, Saniyat Mushrat L
 # 🎖 Honors and Awards
 - **Summa Cum Laude** - *United International University (2024)*
 - **100% Scholarship** - *United International University (2019-2023)*
-  - I have been awarded a 100% scholarship for excellent academic performance in 10 out of 12 trimesters, which are given to the top 2% of students in specific programs.
+  - Awarded 100% scholarships for excellent academic performance in 10 out of 12 trimesters, which are given to the top 2% of students in specific programs.
 - **1st place in Asia, 13th Globally** - *University Rover Challenge (2022)*
-  - University Rover Challenge (URC) is the world's premier robotics competition (Utah, United States) where I was part of the science team. We developed a subsystem to categorize soil and rock samples into extant, extinct, or 'No Presence of Life'. The process involves identifying living microorganisms on the surface of the rock and a model to detect whether rock samples are extinct or NPL. Our research utilized machine learning (ML) and deep learning (DL) methodologies and we also developed our own dataset.
+  The science team developed a subsystem to categorize soil and rock samples into extant, extinct, or 'No Presence of Life'. Our research utilized machine learning (ML) and deep learning (DL) methodologies and we also developed our own dataset.
 - **1st Runner-Up** - *CSE Project Showcase, United International University (Spring 2022)*
-  - Led and contributed significantly to the successful execution of the ["Protibaad"](https://github.com/promaprogga/Protibaad) social awareness project, resulting in a 1st runner-up position in the project showcase.
+  - Led and contributed significantly to the successful execution of the ["Protibaad"](https://github.com/promaprogga/Protibaad) social awareness project.
 - **5th position** - *Bengali Automatic Speech Recognition (Kaggle Competition), DL Sprint - BUET CSE Fest (2022)*
   - Framework: PyTorch
   - Word Embedding model: BERT, Word2Vec
@@ -98,18 +97,15 @@ Anika Khaer, Md Siam Hossain Sarker, **Proma Hossain Progga**, Saniyat Mushrat L
     
 # 💻 Academic Services
 - **Part-Time Lecturer** - *United International University (June 2023 - September 2023)* <br>
-Responsible for leading classes, grading assignments, providing counselling, and undertaking various responsibilities within the teaching role.
   -  CSE 1115: Object Oriented Programming. (Summer’23)
   -  CSE 1325: Digital Logic Design. (Summer’23)
 - **Undergraduate Teaching Assistant** - *United International University (March 2022 - May 2023)* <br>
-Served as a teaching assistant, guiding and supporting faculty member(s) in conducting various courses.
   -  CSE 2216: Data Structure and Algorithms I Laboratory. (Spring’23)
   -  CSE 3421: Software Engineering. (Fall’22)
   -  CSE 3522: Database Management Systems Laboratory. (Fall’22)
   -  CSE 2216: Data Structure and Algorithms I Laboratory. (Summer’22)
   -  CSE 3522: Database Management Systems Laboratory. (Spring’22)
 - **Grader** - *United International University (November 2022 - May 2023)* <br>
-Contributed to the assessment process by assisting faculty in grading assignments for several courses.
   -  CSE 4889: Machine Learning. (Spring’23)
   -  CSE 3811: Articial Intelligence. (Spring’23)
   -  CSE 1111: Structured Programming. Language. (Spring’23)
