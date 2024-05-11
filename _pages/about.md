@@ -32,7 +32,7 @@ Hi! I am working as a Machine Learning Engineer at SSCL. I did my undergrad with
 
 **Proma Hossain Progga**, Md. Jobayer Rahman, Swapnil Biswas, Md. Shakil Ahmed, Arif Reza Anwary and Swakkhar Shatabda.
 
-- We propose an approach for gait recognition that accurately identifies and differentiates individuals based on their unique walking patterns.
+- We propose an approach for gait recognition that accurately identifies individuals based on their unique walking patterns.
 - Using sequential gait landmarks this approach outperforms previous methods on four significant cross-view datasets: CASIA-B, SZU RGB-D, OUMVLP-Pose, and Gait3D.
 
 </div>
