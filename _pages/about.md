@@ -40,8 +40,14 @@ Hi! I am working as a Machine Learning Engineer at SSCL. I did my undergrad with
 </div>
 
 # 🎖 Honors and Awards
-- **Summa Cum Laude (2024)** *United International University *
-  - Encouragement Award - *Correlation Verification for Image Retrieval* (CVPR 2022)
+- **Summa Cum Laude (2024)** - *United International University*
+- **1st place in Asia, 13th Globally (2022)** - *University Rover Challenge (URC)*
+  - Our team won 1st place in Asia and ranked 13th globally in the URC, the world's premier 
+robotics competition (Utah, United States).
+Science team developed a subsystem to categorize soil and rock samples into extant, extinct, 
+or 'No Presence of Life'. The process involves identifying living microorganisms on the surface 
+of the rock and a model to detect whether rock samples are extinct or NPL. Our research 
+utilized machine learning (ML) and deep learning (DL) methodologies. 
 - *(Nov 2022)* [Qualcomm Innovation Fellowship 2022](https://www.qualcomm.com/research/university-relations/innovation-fellowship/winners)
   - Winner ($4,000) - *Correlation Verification for Image Retrieval* (CVPR 2022)
 - *(Oct 2022)* 1st Yonsei AI Workshop (2022)
