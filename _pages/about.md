@@ -31,9 +31,7 @@ Hi! I am working as a Machine Learning Engineer at SSCL. I did my undergrad with
 **A Bidirectional Siamese Recurrent Neural Network for Accurate Gait Recognition Using Body Landmarks**
 
 **Proma Hossain Progga**, Md. Jobayer Rahman, Swapnil Biswas, Md. Shakil Ahmed, [Arif Reza Anwary](https://scholar.google.com/citations?user=zuhhxWIAAAAJ&hl=en) and [Swakkhar Shatabda](https://cse.uiu.ac.bd/faculty/swakkhar/).
-[**[Paper]**](https://arxiv.org/abs/2311.16933)&nbsp;
-[**[Project]**](projects/SparseCtrl/)&nbsp;
-[**[Code]**](https://github.com/guoyww/AnimateDiff#202312-animatediff-v3-and-sparsectrl)
+
 
 </div>
 </div>
@@ -45,12 +43,12 @@ Hi! I am working as a Machine Learning Engineer at SSCL. I did my undergrad with
 
 **iResSENet: An Accurate Convolutional Neural Network for Retinal Blood Vessel Segmentation**
 
-**Proma Hossain Progga**,
+**Proma Hossain Progga** &
 [Swakkhar Shatabda](https://cse.uiu.ac.bd/faculty/swakkhar/)
 
 [**[Paper]**]([https://arxiv.org/abs/2307.04725](https://link.springer.com/chapter/10.1007/978-3-031-30111-7_48))&nbsp;
 [**[ResearchGate]**]([https://animatediff.github.io/](https://www.researchgate.net/publication/370303865_iResSENet_An_Accurate_Convolutional_Neural_Network_for_Retinal_Blood_Vessel_Segmentation))&nbsp;
-[**[Code (7.5k stars)]**]([https://github.com/guoyww/AnimateDiff](https://github.com/promaprogga/iResSENet-An-Accurate-Convolutional-Neural-Network-for-Retinal-Blood-Vessel-Segmentation))
+[**[Code]**]([https://github.com/guoyww/AnimateDiff](https://github.com/promaprogga/iResSENet-An-Accurate-Convolutional-Neural-Network-for-Retinal-Blood-Vessel-Segmentation))
 </div>
 </div>
 <!-- AnimateDiff -->
