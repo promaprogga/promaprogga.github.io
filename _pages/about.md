@@ -39,14 +39,17 @@ Hi! I am working as a Machine Learning Engineer at SSCL. I did my undergrad with
 </div>
 </div>
 
+# 🎖 Honors and Awards
+- **Summa Cum Laude (2024)** *United International University *
+  - Encouragement Award - *Correlation Verification for Image Retrieval* (CVPR 2022)
+- *(Nov 2022)* [Qualcomm Innovation Fellowship 2022](https://www.qualcomm.com/research/university-relations/innovation-fellowship/winners)
+  - Winner ($4,000) - *Correlation Verification for Image Retrieval* (CVPR 2022)
+- *(Oct 2022)* 1st Yonsei AI Workshop (2022)
+  - Excellence Vision Research Award - *Correlation Verification for Image Retrieval* (CVPR 2022)
+
 # 💻 Academic Appointments
 - *June 2023 - September 2023*, [Lorem](https://github.com/), China.
 - 
-
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 
 
