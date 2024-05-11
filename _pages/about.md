@@ -25,16 +25,15 @@ Hi! I am working as a Machine Learning Engineer at SSCL. I did my undergrad with
 - **2016**&nbsp; Secondary School Certificate (Science), SV Govt. Girls High School
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In submission.</div><img src='papers/vqascore/images/vqascore.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In submission.</div><img src=images/gait.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Evaluating Text-to-Visual Generation with Image-to-Text Generation**
+**A Bidirectional Siamese Recurrent Neural Network for Accurate Gait Recognition Using Body Landmarks**
 
-**Zhiqiu Lin**, [Deepak Pathak](https://www.cs.cmu.edu/~dpathak/), [Baiqi Li](https://linzhiqiu.github.io/papers/vqascore/), [Emily Li](https://linzhiqiu.github.io/papers/vqascore/), [Xide Xia](https://xidexia.github.io/), [Graham Neubig](https://phontron.com/), [Pengchuan Zhang\*](https://pzzhang.github.io/pzzhang/), [Deva Ramanan\*](https://www.cs.cmu.edu/~deva/)
+**Proma Hossain Progga**, Md. Jobayer Rahman, Swapnil Biswas, Md. Shakil Ahmed, Arif Reza Anwary and Swakkhar Shatabda.
 
-[Website](https://linzhiqiu.github.io/papers/vqascore/) \| [Arxiv](https://arxiv.org/pdf/2404.01291.pdf) \| [![](https://img.shields.io/github/stars/linzhiqiu/t2v_metrics?style=social&label=Code+Stars)](https://github.com/linzhiqiu/t2v_metrics)
-- We propose VQAScore, the state-of-the-art alignment metric for text-to-image/video/3D models.
-- VQAScore based on our new CLIP-FlanT5 model outperforms previous metrics based on GPT-4Vision or costly human feedback.
+- We propose an approach for gait recognition that accurately identifies and differentiates individuals based on their unique walking patterns.
+- Using sequential gait landmarks this approach outperforms previous methods on four significant cross-view datasets: CASIA-B, SZU RGB-D, OUMVLP-Pose, and Gait3D.
 
 </div>
 </div>
