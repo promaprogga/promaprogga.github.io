@@ -86,7 +86,7 @@ Anika Khaer, Md Siam Hossain Sarker, **Proma Hossain Progga**, Saniyat Mushrat L
 - **100% Scholarship** - *United International University (2019-2023)*
   - Awarded 100% scholarships for excellent academic performance in 10 out of 12 trimesters, which are given to the top 2% of students in specific programs.
 - **1st place in Asia, 13th Globally** - *University Rover Challenge (2022)*
-  The science team developed a subsystem to categorize soil and rock samples into extant, extinct, or 'No Presence of Life'. Our research utilized machine learning (ML) and deep learning (DL) methodologies and we also developed our own dataset.
+  - The science team developed a subsystem to categorize soil and rock samples into extant, extinct, or 'No Presence of Life'. Our research utilized machine learning (ML) and deep learning (DL) methodologies and we also developed our own dataset.
 - **1st Runner-Up** - *CSE Project Showcase, United International University (Spring 2022)*
   - Led and contributed significantly to the successful execution of the ["Protibaad"](https://github.com/promaprogga/Protibaad) social awareness project.
 - **5th position** - *Bengali Automatic Speech Recognition (Kaggle Competition), DL Sprint - BUET CSE Fest (2022)*
