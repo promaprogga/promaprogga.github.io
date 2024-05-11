@@ -41,18 +41,18 @@ Hi! I am working as a Machine Learning Engineer at SSCL. I did my undergrad with
 
 # 🎖 Honors and Awards
 - **Summa Cum Laude (2024)** - *United International University*
-- **1st place in Asia, 13th Globally (2022)** - *University Rover Challenge (URC)*
-  - Our team won 1st place in Asia and ranked 13th globally in the URC, the world's premier 
-robotics competition (Utah, United States).
-Science team developed a subsystem to categorize soil and rock samples into extant, extinct, 
-or 'No Presence of Life'. The process involves identifying living microorganisms on the surface 
-of the rock and a model to detect whether rock samples are extinct or NPL. Our research 
-utilized machine learning (ML) and deep learning (DL) methodologies. 
-- *(Nov 2022)* [Qualcomm Innovation Fellowship 2022](https://www.qualcomm.com/research/university-relations/innovation-fellowship/winners)
-  - Winner ($4,000) - *Correlation Verification for Image Retrieval* (CVPR 2022)
-- *(Oct 2022)* 1st Yonsei AI Workshop (2022)
-  - Excellence Vision Research Award - *Correlation Verification for Image Retrieval* (CVPR 2022)
-
+- **100% Scholarship (2019-2023)** - *United International University*
+  - I have been awarded a 100% scholarship for excellent academic performance in 10 out of 12 trimesters, which are given to the top 2% of students in specific programs.
+- **1st place in Asia, 13th Globally (2022)** - *University Rover Challenge*
+  - University Rover Challenge (URC) is the world's premier robotics competition (Utah, United States) where I was part of the science team. We developed a subsystem to categorize soil and rock samples into extant, extinct, or 'No Presence of Life'. The process involves identifying living microorganisms on the surface of the rock and a model to detect whether rock samples are extinct or NPL. Our research utilized machine learning (ML) and deep learning (DL) methodologies and we also developed our own dataset.
+- **1st Runner-Up (Spring 2022)** - *CSE Project Showcase, United International University*
+  - Led and contributed significantly to the successful execution of the ["Protibaad"](https://github.com/promaprogga/Protibaad) social awareness project, resulting in a 1st runner-up position in the project showcase.
+- **5th position (2022)** - *Bengali Automatic Speech Recognition (Kaggle Competition), DL Sprint - BUET CSE Fest*
+  - Framework: PyTorch
+  - Word Embedding model: BERT, Word2Vec
+  - Language model: N-Gram (6-gram)
+  - Dataset: Bengali Common Voice Speech
+    
 # 💻 Academic Appointments
 - *June 2023 - September 2023*, [Lorem](https://github.com/), China.
 - 
