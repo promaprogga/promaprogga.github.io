@@ -17,18 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am working as a Machine Learning Engineer at Spectrum Engineering Consortium Ltd. I did my undergrad in Computer Science and Engineering with a CGPA of 3.97 out of 4.0 at United International University and secured 1st position in my graduation batch. My current research focuses on computer vision and language.
+Hi! I am working as a Machine Learning Engineer at Spectrum Software & Consulting Ltd. I did my undergrad in Computer Science and Engineering with a CGPA of 3.97 out of 4.0 and secured 1st position in my graduation batch at UIU. My current research focuses on computer vision and language. Feel free to [contact me](mailto:phprogga@gmail.com) if you are interested in my work.
 
 # 📖 Educations
-**B.Sc. in Computer Science and Engineering** <br/>
-*United International University, May 2019 - May 2023*
-
-**Higher Secondary Certificate (HSC)** <br/>
-*Gurrudayal Govt. College, 2018*<br/>
-**Secondary School Certificate (SSC)** <br/>
-*SV Govt. Girls High School, 2016*<br/>
-**Junior School Certificate (JSC)** <br/>
-*SV Govt. Girls High School, 2014*
+- **2019.07 - 2023.05**&nbsp; B.Sc. in Computer Science and Engineering (Data Science), United International University
+- **2018**&nbsp; Higher Secondary Certificate (Science), Gurrudayal Govt. College
+- **2016**&nbsp; Secondary School Certificate (Science), SV Govt. Girls High School
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">In submission.</div><img src='papers/vqascore/images/vqascore.png' alt="sym" width="100%"></div></div>
