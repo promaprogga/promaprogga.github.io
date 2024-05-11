@@ -54,7 +54,7 @@ In International Conference on Neural Information Processing, pp. 567-578. Cham:
 <!-- AnimateDiff -->
 
 <!-- AnimateDiff -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCT'23</div><img src='images/KNN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCT'23</div><img src='images/KNN.png' alt="sym" height="80%" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **K-Nearest Neighbour Classifier for Big Data Mining based on Informative Instances**<br>
