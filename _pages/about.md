@@ -29,7 +29,7 @@ Hi! I am working as a Machine Learning Engineer at SSCL. I did my undergrad with
 <div class='paper-box-text' markdown="1">
 
 **A Bidirectional Siamese Recurrent Neural Network for Accurate Gait Recognition Using Body Landmarks**
-
+In Neurocomputing Journal, 2023.
 **Proma Hossain Progga**, Md. Jobayer Rahman, Swapnil Biswas, Md. Shakil Ahmed, [Arif Reza Anwary](https://scholar.google.com/citations?user=zuhhxWIAAAAJ&hl=en) and [Swakkhar Shatabda](https://cse.uiu.ac.bd/faculty/swakkhar/).
 
 [**[Code]**](https://github.com/promaprogga/Siamese-BiGRU-dualStack)
@@ -40,16 +40,43 @@ Hi! I am working as a Machine Learning Engineer at SSCL. I did my undergrad with
 <!-- SparseCtrl -->
 
 <!-- AnimateDiff -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICONIP</div><img src='images/iresnet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICONIP'22</div><img src='images/iresnet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **iResSENet: An Accurate Convolutional Neural Network for Retinal Blood Vessel Segmentation**
-
-**Proma Hossain Progga** &
-[Swakkhar Shatabda](https://cse.uiu.ac.bd/faculty/swakkhar/)
+In International Conference on Neural Information Processing, pp. 567-578. Cham: Springer International Publishing.
+**Proma Hossain Progga** & [Swakkhar Shatabda](https://cse.uiu.ac.bd/faculty/swakkhar/)
 
 [**[Paper]**](https://link.springer.com/chapter/10.1007/978-3-031-30111-7_48)&nbsp;
 [**[Code]**](https://github.com/promaprogga/iResSENet-An-Accurate-Convolutional-Neural-Network-for-Retinal-Blood-Vessel-Segmentation)
+</div>
+</div>
+<!-- AnimateDiff -->
+
+<!-- AnimateDiff -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCT'23</div><img src='images/KNN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**K-Nearest Neighbour Classifier for Big Data Mining based on Informative Instances**
+In International Conference for Convergence in Technology (I2CT), pp. 1-7. IEEE. 
+**Proma Hossain Progga**, Md. Jobayer Rahman, Swapnil Biswas, Md. Shakil Ahmed  and [Dewan 
+Md Farid](https://cse.uiu.ac.bd/faculty/dewanfarid/)
+
+[**[Paper]**](https://ieeexplore.ieee.org/document/10126147)&nbsp;
+
+</div>
+</div>
+<!-- AnimateDiff -->
+<!-- AnimateDiff -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICISS'23</div><img src='images/uav.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**UAVs in Green Health Care for Energy Efficiency and Real-Time Data Transmission**
+In International Conference on Intelligent Sustainable Systems, pp. 773-788. Singapore: Springer Nature Singapore
+Anika Khaer, Md Siam Hossain Sarker, **Proma Hossain Progga**, Saniyat Mushrat Lamim, and [Md Motaharul Islam](https://cse.uiu.ac.bd/faculty/motaharul/)
+
+[**[Paper]**](https://link.springer.com/chapter/10.1007/978-981-99-1726-6_60)&nbsp;
+
 </div>
 </div>
 <!-- AnimateDiff -->
