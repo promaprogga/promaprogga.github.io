@@ -70,8 +70,8 @@ In International Conference for Convergence in Technology (I2CT), pp. 1-7. IEEE.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICISS'23</div><img src='images/uav.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**UAVs in Green Health Care for Energy Efficiency and Real-Time Data Transmission**
-In International Conference on Intelligent Sustainable Systems, pp. 773-788. Singapore: Springer Nature Singapore
+**UAVs in Green Health Care for Energy Efficiency and Real-Time Data Transmission**<br>
+In International Conference on Intelligent Sustainable Systems, pp. 773-788. Singapore: Springer Nature Singapore<br>
 Anika Khaer, Md Siam Hossain Sarker, **Proma Hossain Progga**, Saniyat Mushrat Lamim, and [Md Motaharul Islam](https://cse.uiu.ac.bd/faculty/motaharul/)
 
 [**[Paper]**](https://link.springer.com/chapter/10.1007/978-981-99-1726-6_60)&nbsp;
