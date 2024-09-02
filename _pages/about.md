@@ -28,10 +28,11 @@ Hi! I am working as a Machine Learning Engineer at SSCL. I did my undergrad with
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">In submission</div><img src='images/gait.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**A Bidirectional Siamese Recurrent Neural Network for Accurate Gait Recognition Using Body Landmarks** <br>
+**A bidirectional Siamese recurrent neural network for accurate gait recognition using body landmarks** <br>
 In Neurocomputing Journal, 2023.<br>
 **Proma Hossain Progga**, Md. Jobayer Rahman, Swapnil Biswas, Md. Shakil Ahmed, [Arif Reza Anwary](https://scholar.google.com/citations?user=zuhhxWIAAAAJ&hl=en) and [Swakkhar Shatabda](https://cse.uiu.ac.bd/faculty/swakkhar/).
 
+[**[Paper]**](https://www.sciencedirect.com/science/article/abs/pii/S0925231224010841)&nbsp;
 [**[Code]**](https://github.com/promaprogga/Siamese-BiGRU-dualStack)
 
 
