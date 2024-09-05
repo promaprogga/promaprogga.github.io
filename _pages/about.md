@@ -26,7 +26,7 @@ Hi! I am working as a Machine Learning Engineer at SSCL. I completed my undergra
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing</div><img src='images/gait.png' alt="sym" width="50%"></div></div>
-<!-- <div class='paper-box-text' markdown="1"> -->
+<div class='paper-box-text' markdown="1">
 
 **A bidirectional Siamese recurrent neural network for accurate gait recognition using body landmarks** <br>
 In Neurocomputing Journal, 2023.<br>
