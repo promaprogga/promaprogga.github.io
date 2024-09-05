@@ -138,7 +138,7 @@ Neighbours, Decision Tree.
   - Framework: PyTorch
   - Word Embedding & Language model: BERT, Word2Vec, N-Gram (6-gram)
   - Dataset: Bengali Common Voice Speech
-  - 
+
 - **Biological Life Detection through Rock Classification** - *University Rover Challenge*<br>
   - The science team developed a subsystem to categorize soil and rock samples into extant, extinct, or 'No Presence of Life'. Our research utilized machine learning (ML) and deep learning (DL) methodologies and we also developed our own dataset.
  
