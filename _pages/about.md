@@ -17,10 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am working as a Machine Learning Engineer at SSCL. I did my undergrad with the top position in Computer Science and Engineering at UIU. My current research focuses on computer vision and language. Feel free to [contact me](mailto:phprogga@gmail.com) if you are interested in my work.
+Hi! I am working as a Machine Learning Engineer at SSCL. I completed my undergraduate studies specializing in Data Science, graduating with the top position in Computer Science and Engineering at UIU. My current research focuses on computer vision and language. Feel free to [contact me](mailto:phprogga@gmail.com) if you are interested in my work.
 
 # 📖 Educations
-- **2019.07 - 2023.05**&nbsp; B.Sc. in Computer Science and Engineering (Data Science), United International University
+- **2019.07 - 2023.05**&nbsp; B.Sc. in Computer Science and Engineering, United International University
 - **2018**&nbsp; Higher Secondary Certificate (Science), Gurrudayal Govt. College
 - **2016**&nbsp; Secondary School Certificate (Science), SV Govt. Girls High School
 
