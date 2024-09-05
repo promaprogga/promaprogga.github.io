@@ -25,7 +25,7 @@ Hi! I am working as a Machine Learning Engineer at SSCL. I completed my undergra
 - **2016**&nbsp; Secondary School Certificate (Science), SV Govt. Girls High School
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing</div><img src='images/gait.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing</div><img src='images/gait.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **A bidirectional Siamese recurrent neural network for accurate gait recognition using body landmarks** <br>
@@ -41,7 +41,7 @@ In Neurocomputing Journal, 2023.<br>
 <!-- SparseCtrl -->
 
 <!-- AnimateDiff -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICONIP'22</div><img src='images/iresnet.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICONIP'22</div><img src='images/iresnet.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="2">
 
 **iResSENet: An Accurate Convolutional Neural Network for Retinal Blood Vessel Segmentation**<br>
@@ -68,7 +68,7 @@ In International Conference for Convergence in Technology (I2CT), pp. 1-7. IEEE.
 </div>
 <!-- AnimateDiff -->
 <!-- AnimateDiff -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICISS'23</div><img src='images/uav.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICISS'23</div><img src='images/uav.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="4">
 
 **UAVs in Green Health Care for Energy Efficiency and Real-Time Data Transmission**<br>
