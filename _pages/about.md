@@ -111,24 +111,23 @@ Anika Khaer, Md Siam Hossain Sarker, **Proma Hossain Progga**, Saniyat Mushrat L
 
 # 💬 Selected Projects
 
-- **Information Extraction From Financial Documents** - *Industry Project*
+- **Information Extraction From Financial Documents** - *Industry Project*<br>
 This project aims to extract entities from financial trade-related documents and organize the extracted information into a structured JSON object. This JSON object can then be utilized across various applications.
   - Domain: Classification, OCR, Segmentation, Detection, LLM, Multimodal
 
-- **Vehicles Number Plate Detection and Recognition** - *Industry Project*
+- **Vehicles Number Plate Detection and Recognition** - *Industry Project*<br>
 This project aims to extract entities from financial trade-related documents and organize the extracted information into a structured JSON object. This JSON object can then be utilized across various applications.
   - Domain: Detection, Multimodal, OCR
     
-- **Retinal Blood Vessel Segmentation** - *University project*
+- **Retinal Blood Vessel Segmentation** - *University project*<br>
 This project aims to extract entities from financial trade-related documents and organize the extracted information into a structured JSON object. This JSON object can then be utilized across various applications.
   - Domain: Detection, Multimodal, OCR
 
-- **Bengali Automatic Speech Recognition** - *Kaggle Competition*
+- **Bengali Automatic Speech Recognition** - *Kaggle Competition*<br>
   Built a model to recognize Bengali speech from out-of-distribution audio using a crowdsourced dataset with 400 hours of speech. The project aimed to enhance Bengali speech recognition and address out-of-distribution generalization challenges.
   - Framework: PyTorch
-  - Word Embedding model: BERT, Word2Vec
-  - Language model: N-Gram (6-gram)
+  - Word Embedding & Language model: BERT, Word2Vec, N-Gram (6-gram)
   - Dataset: Bengali Common Voice Speech
   - 
-- **Biological Life Detection through Rock Classification** - *University Rover Challenge*
+- **Biological Life Detection through Rock Classification** - *University Rover Challenge*<br>
   - The science team developed a subsystem to categorize soil and rock samples into extant, extinct, or 'No Presence of Life'. Our research utilized machine learning (ML) and deep learning (DL) methodologies and we also developed our own dataset.
