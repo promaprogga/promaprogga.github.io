@@ -42,7 +42,7 @@ In Neurocomputing Journal, 2023.<br>
 
 <!-- AnimateDiff -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICONIP'22</div><img src='images/iresnet.png' alt="sym" width="50%"></div></div>
-<div class='paper-box-text' markdown="2">
+<div class='paper-box-text' markdown="1">
 
 **iResSENet: An Accurate Convolutional Neural Network for Retinal Blood Vessel Segmentation**<br>
 In International Conference on Neural Information Processing, pp. 567-578. Cham: Springer International Publishing.<br>
@@ -56,7 +56,7 @@ In International Conference on Neural Information Processing, pp. 567-578. Cham:
 
 <!-- AnimateDiff -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCT'23</div><img src='images/KNN.png' alt="sym" height="50%" width="50%"></div></div>
-<div class='paper-box-text' markdown="3">
+<div class='paper-box-text' markdown="1">
 
 **K-Nearest Neighbour Classifier for Big Data Mining based on Informative Instances**<br>
 In International Conference for Convergence in Technology (I2CT), pp. 1-7. IEEE. <br>
@@ -69,7 +69,7 @@ In International Conference for Convergence in Technology (I2CT), pp. 1-7. IEEE.
 <!-- AnimateDiff -->
 <!-- AnimateDiff -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICISS'23</div><img src='images/uav.png' alt="sym" width="50%"></div></div>
-<div class='paper-box-text' markdown="4">
+<div class='paper-box-text' markdown="1">
 
 **UAVs in Green Health Care for Energy Efficiency and Real-Time Data Transmission**<br>
 In International Conference on Intelligent Sustainable Systems, pp. 773-788. Singapore: Springer Nature Singapore<br>
