@@ -87,14 +87,10 @@ Anika Khaer, Md Siam Hossain Sarker, **Proma Hossain Progga**, Saniyat Mushrat L
 - **100% Scholarship** - *United International University (2019-2023)*
   - Awarded 100% scholarships for excellent academic performance in 10 out of 12 trimesters, which are given to the top 2% of students in specific programs.
 - **1st place in Asia, 13th Globally** - *University Rover Challenge (2022)*
-  - The science team developed a subsystem to categorize soil and rock samples into extant, extinct, or 'No Presence of Life'. Our research utilized machine learning (ML) and deep learning (DL) methodologies and we also developed our own dataset.
+  - It is an international robotics competition where teams design and build Mars rovers to complete tasks related to exploration and research in simulated Martian environments. 
 - **1st Runner-Up** - *CSE Project Showcase, United International University (Spring 2022)*
   - Led and contributed significantly to the successful execution of the ["Protibaad"](https://github.com/promaprogga/Protibaad) social awareness project.
 - **5th position** - *Bengali Automatic Speech Recognition (Kaggle Competition), DL Sprint - BUET CSE Fest (2022)*
-  - Framework: PyTorch
-  - Word Embedding model: BERT, Word2Vec
-  - Language model: N-Gram (6-gram)
-  - Dataset: Bengali Common Voice Speech
     
 # 💻 Academic Services
 - **Part-Time Lecturer** - *United International University (June 2023 - September 2023)* <br>
@@ -113,5 +109,26 @@ Anika Khaer, Md Siam Hossain Sarker, **Proma Hossain Progga**, Saniyat Mushrat L
   -  MATH 2205: Probability and Statistics. (Fall’22)
 
 
-# 💬 Projects
+# 💬 Selected Projects
 
+- **Information Extraction From Financial Documents** - *Industry Project*
+This project aims to extract entities from financial trade-related documents and organize the extracted information into a structured JSON object. This JSON object can then be utilized across various applications.
+  - Domain: Classification, OCR, Segmentation, Detection, LLM, Multimodal
+
+- **Vehicles Number Plate Detection and Recognition** - *Industry Project*
+This project aims to extract entities from financial trade-related documents and organize the extracted information into a structured JSON object. This JSON object can then be utilized across various applications.
+  - Domain: Detection, Multimodal, OCR
+    
+- **Retinal Blood Vessel Segmentation** - *University project*
+This project aims to extract entities from financial trade-related documents and organize the extracted information into a structured JSON object. This JSON object can then be utilized across various applications.
+  - Domain: Detection, Multimodal, OCR
+
+- **Bengali Automatic Speech Recognition** - *Kaggle Competition*
+  Built a model to recognize Bengali speech from out-of-distribution audio using a crowdsourced dataset with 400 hours of speech. The project aimed to enhance Bengali speech recognition and address out-of-distribution generalization challenges.
+  - Framework: PyTorch
+  - Word Embedding model: BERT, Word2Vec
+  - Language model: N-Gram (6-gram)
+  - Dataset: Bengali Common Voice Speech
+  - 
+- **Biological Life Detection through Rock Classification** - *University Rover Challenge*
+  - The science team developed a subsystem to categorize soil and rock samples into extant, extinct, or 'No Presence of Life'. Our research utilized machine learning (ML) and deep learning (DL) methodologies and we also developed our own dataset.
