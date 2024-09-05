@@ -120,8 +120,18 @@ This project aims to extract entities from financial trade-related documents and
   - Domain: Detection, Multimodal, OCR
     
 - **Retinal Blood Vessel Segmentation** - *University project*<br>
-This project aims to extract entities from financial trade-related documents and organize the extracted information into a structured JSON object. This JSON object can then be utilized across various applications.
-  - Domain: Detection, Multimodal, OCR
+The primary objective of this research is to identify a segmentation methodology that surpasses existing methods in terms of performance on multiple standard benchmark datasets.
+  - Language: Python, Keras (Tensorflow as backend)
+  - Neural Networks: U-Net, Squeeze-and-Excitation, Deep Residual Network, Inception Network, ConvNeXt, and so on.
+  -  Dataset : DRIVE, CHASEDB1, STARE, and HRF
+
+- **Graph Neural Network to Analyze Protein Secondary Structure** - *University project*<br>
+This research used GNNs to predict protein secondary structure and compared several 
+models. 
+  -  Language and Frameworks: Python, Tensorflow.
+  -  Algorithms: Graph Neural Network, Support Vector Machine, AdaBoost, K-Nearest 
+Neighbours, Decision Tree.
+  -  Dataset: ccPDB 2.0
 
 - **Bengali Automatic Speech Recognition** - *Kaggle Competition*<br>
   Built a model to recognize Bengali speech from out-of-distribution audio using a crowdsourced dataset with 400 hours of speech. The project aimed to enhance Bengali speech recognition and address out-of-distribution generalization challenges.
@@ -131,3 +141,29 @@ This project aims to extract entities from financial trade-related documents and
   - 
 - **Biological Life Detection through Rock Classification** - *University Rover Challenge*<br>
   - The science team developed a subsystem to categorize soil and rock samples into extant, extinct, or 'No Presence of Life'. Our research utilized machine learning (ML) and deep learning (DL) methodologies and we also developed our own dataset.
+ 
+
+- **Restaurant Management System** - *University project*<br>
+This system allows customers to reserve tables at various restaurants based on availability. Customers can order from the restaurant's online menu and either serve themselves or request table service for an additional fee. The system generates bills and allows for online payment. Admins can manage restaurants, menus, and orders, and generate reports. 
+  -  Backend Language: Python (Django).
+  -  Frontend: HTML, Sass, CSS, JavaScript, jQuery
+ 
+- **Protibaad** - *University project*<br>
+Protibaad is a comprehensive software system that enhances public safety and awareness. It features a crime alert system, missing person reporting, a survey pool, and a blog section. With its user-friendly interface and range of useful features, Protibaad is an invaluable tool for promoting safety, community engagement, and social awareness.  
+  -  Backend Language: PHP, Ajax, JSON.
+  -  Frontend: HTML, CSS, Javascript.
+  -  Database: SQL.
+
+- **E-commerce Desktop Application** - *University project*<br>
+It is a desktop application where multiple customers can purchase and make payments at a time like e-commerce.
+  -  Library: Java FX
+  -  Communication Interface: Socket.
+
+- **University Management System** - *University project*<br>
+This Project is based on Java to understand the core concept of object-oriented 
+programming. 
+Features:
+• Faculty Management (add, remove, or show). 
+• Student Management (Insert, remove, or show).
+• Course Transactions (add, drop, or show
+  -  Language: Java
