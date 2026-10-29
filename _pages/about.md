@@ -18,8 +18,6 @@ redirect_from:
 <span class="anchor" id="about-me"></span>
 
 <div class="hero-card">
-  <h2 class="hero-greeting">Proma Hossain Progga</h2>
-  <div class="hero-subtitle">Senior Machine Learning Engineer @ Spectrum Software &amp; Consulting Ltd. (SSCL) &bull; AI Researcher</div>
   <p class="hero-bio-text">
     Hi! I am a <strong>Senior Machine Learning Engineer</strong> at <strong>Spectrum Software &amp; Consulting Ltd. (SSCL)</strong> and an AI researcher. Previously, I served as an Instructor, Research Assistant, and Undergraduate Teaching Assistant in the Department of Computer Science and Engineering at <strong>United International University (UIU)</strong>, where I completed my B.Sc. in CSE, graduating <strong>1st in my batch</strong> with <strong>Summa Cum Laude</strong> honors (<strong>CGPA: 3.97 / 4.00</strong>).
   </p>
