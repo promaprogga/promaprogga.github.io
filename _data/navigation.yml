@@ -1,20 +1,22 @@
-# main links links
+# main navigation links
 main:
-  - title: "About Me"
+  - title: "About"
     url: "/#about-me"
 
-  - title: "Educations"
-    url: "/#-educations"
-    
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#publications"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
-  
-  - title: "Academic Services"
-    url: "/#-academic-services"
+  - title: "Experience"
+    url: "/#experience"
 
-  - title: "Selected Projects"
-    url: "/#-selected-projects"
+  - title: "Projects"
+    url: "/#projects"
 
+  - title: "Skills"
+    url: "/#skills"
+
+  - title: "Education"
+    url: "/#education"
+
+  - title: "Awards & Leadership"
+    url: "/#honors-and-awards"
